@@ -162,7 +162,61 @@
 } */
 
 
+@media (max-width:480px) {
+  .pro{
+    margin-left: 39px;
+  }
+  footer{
+    margin-left: 39px;
+  }
+  .down{
+    position: relative;
+  }
+  .contacts{
+    width: 20%;
+    position: absolute;
+    left: 140px;
+    top: -43px;
 
+  }
+  .contacts .tw{
+    padding-left: 10px;
+  }
+  .contacts .tw span{
+    padding-right: 2px;
+  }
+  .contacts .ln img{
+    width: 20%;
+  }
+  .contacts .tw img{
+    width: 16px;
+  }
+  .contacts .gh img{
+    width: 20px;
+  }
+  .contacts .gh{
+    padding-left: 28px;
+    text-align: center;
+  }
+  .copy{
+    font-size: 10px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  .word{
+    font-size: 24px;
+    position: relative;
+    margin-bottom: 12px;
+  }
+  .word svg{
+    width: 40px;
+    position: absolute;
+    top: -20px;
+  }
+  .montserrat-bold{
+    font-size: 38px;
+  }
+}
 
 
 

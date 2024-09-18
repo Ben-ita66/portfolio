@@ -148,7 +148,7 @@
   display: none;
 }
 
-@media (min-width: 400px) and (max-width:700px) {
+@media (min-width: 275px) and (max-width:700px) {
 
   .pro {
     margin-left: 39px;
@@ -208,6 +208,6 @@
     top: -20px;
   }
   .montserrat-bold {
-    font-size: 33px;
+    font-size: 30px;
   }
 }

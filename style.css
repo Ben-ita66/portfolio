@@ -155,7 +155,11 @@
     margin-right: 39px;
   }
   .col {
-    padding-top: 3px;
+    margin-top: 25px;
+  }
+  .coll{
+    text-align: justify;
+    font-size: 14px;
   }
   footer {
     margin-left: 39px;
@@ -209,5 +213,9 @@
   }
   .montserrat-bold {
     font-size: 30px;
+  }
+  .abt{
+    word-spacing: normal;
+    font-size: 14px;
   }
 }

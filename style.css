@@ -163,6 +163,10 @@
 
 
 @media (max-width:480px) {
+  * {
+    box-sizing: border-box;
+}
+
   .pro{
     margin-left: 39px;
   }
